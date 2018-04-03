@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/BoomSheetTest" />
+            <option value="$PROJECT_DIR$/Glide" />
+            <option value="$PROJECT_DIR$/PhotoWall" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/cardview" />
             <option value="$PROJECT_DIR$/snackbar" />
